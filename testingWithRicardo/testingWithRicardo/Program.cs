@@ -8,6 +8,7 @@ namespace testingWithRicardo
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Write your Name!");
+            Console.WriteLine("Write your Age!");
             Console.Read();
 
         }
